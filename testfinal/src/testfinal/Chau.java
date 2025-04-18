@@ -1,6 +1,7 @@
 package testfinal;
 
 public class Chau {
-	private String porfinsepudo = "dasdas";
+	private String porfinsepudo = "";
+	private int d;
 
 }
